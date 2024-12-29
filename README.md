@@ -1,4 +1,4 @@
 # demo-repo
 I am creating a repository for demonstration purose.
 <br>
-Author - Chitra Thakur (BTech-CSE)
+Author - Chitra Thakur (B.Tech-CSE)
